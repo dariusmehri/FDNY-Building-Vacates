@@ -1,1 +1,2 @@
-# FDNY-Building-Vacates
+# FDNY Building Vacates Issued
+FDNY vacates are emergency actions taken when a building is deemed unsafe to occupy due to conditions such as fire damage, structural instability, gas leaks, or other hazardous situations. In these cases, occupants are required to leave immediately to protect their safety, and the incident is typically coordinated with the New York City Department of Buildings and other agencies for further inspection and enforcement. Vacates are relatively rare but represent high-severity events that indicate serious building or infrastructure failure.
