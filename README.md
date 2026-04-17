@@ -1,7 +1,7 @@
 # FDNY Building Vacates
 FDNY vacates are emergency orders issued when a building is deemed unsafe to occupy due to conditions such as fire damage, structural instability, gas leaks, or other serious hazards. In these situations, occupants must leave immediately to ensure their safety, with follow-up inspections and enforcement coordinated with the New York City Department of Buildings and other agencies. While relatively rare, vacates represent high-severity events that signal critical building or infrastructure failure.
 
-This project leverages Python, generative AI, and Power BI to analyze the key factors associated with FDNY vacate orders.
+This project leverages Python, generative AI, and Power BI to analyze the key factors associated with FDNY vacate orders. The analysis draws on data from NYC Open Data, including FDNY Vacate Orders and PLUTO spatial data published by the New York City Department of City Planning.
 
 Since 1989, the FDNY has issued 358 vacate orders. 
 
