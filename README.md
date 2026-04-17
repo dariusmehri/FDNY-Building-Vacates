@@ -1,7 +1,9 @@
 # FDNY Building Vacates
-FDNY vacates are emergency actions taken when a building is deemed unsafe to occupy due to conditions such as fire damage, structural instability, gas leaks, or other hazardous situations. In these cases, occupants are required to leave immediately to protect their safety, and the incident is typically coordinated with the New York City Department of Buildings and other agencies for further inspection and enforcement. Vacates are relatively rare but represent high-severity events that indicate serious building or infrastructure failure.
+FDNY vacates are emergency orders issued when a building is deemed unsafe to occupy due to conditions such as fire damage, structural instability, gas leaks, or other serious hazards. In these situations, occupants must leave immediately to ensure their safety, with follow-up inspections and enforcement coordinated with the New York City Department of Buildings and other agencies. While relatively rare, vacates represent high-severity events that signal critical building or infrastructure failure.
 
-Since, 1989 the FDNY issued 358 vacate orders. The below graph shows the number of vacates by building age category.
+This project leverages Python, generative AI, and Power BI to analyze the key factors associated with FDNY vacate orders.
+
+Since 1989, the FDNY has issued 358 vacate orders. The chart below shows the distribution of vacates by building age category.
 
 #### Building Age
 The distribution of FDNY vacates by building age suggests two distinct risk patterns driven by how buildings deteriorate over time. Pre-war buildings from 1920–1939 account for the most vacates because they combine advanced age with decades of incremental wear and often insufficient modernization, making them especially vulnerable to failure. Slightly older buildings (1900–1919) follow a similar pattern, while pre-1900 buildings show fewer vacates likely due to survivorship bias—many of the most hazardous structures have already been demolished or fully rehabilitated. The rise in vacates among 1960–1979 buildings reflects a different dynamic, where large-scale developments experience system-wide deterioration at the same time, leading to clustered failures. Overall, vacates tend to occur where long-term degradation outpaces reinvestment, whether gradual or systemic.
