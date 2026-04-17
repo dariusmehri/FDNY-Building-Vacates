@@ -15,6 +15,7 @@ The distribution of FDNY vacates by building age suggests two distinct risk patt
 #### Spatial Analytics
 FDNY vacates cluster in the Bronx and central Brooklyn neighborhoods like Bushwick, Bed-Stuy, and Clinton Hill because these areas contain high concentrations of aging pre-war buildings where long-term deterioration and underinvestment have accumulated. At the same time, a noticeable corridor of vacates runs along Jamaica Avenue into Queens, reflecting a different pattern driven by older mixed-use buildings, heavy commercial activity, and fragmented ownership. Together, the pattern shows that vacates are not randomly distributed—they concentrate in places where vulnerable building stock and sustained maintenance challenges overlap.
 
-<img width="592" height="484" alt="image" src="https://github.com/user-attachments/assets/47bc1fd5-904c-4799-b025-0a1739d36c8d" />
+<img width="601" height="507" alt="image" src="https://github.com/user-attachments/assets/ff6386b8-69be-481c-af14-376657dd6085" />
+
 
 
