@@ -5,5 +5,5 @@ Since, 1989 the FDNY issued 358 vacate orders. The below graph shows the number 
 
 The distribution of FDNY vacates by building age suggests two distinct risk patterns driven by how buildings deteriorate over time. Pre-war buildings from 1920–1939 account for the most vacates because they combine advanced age with decades of incremental wear and often insufficient modernization, making them especially vulnerable to failure. Slightly older buildings (1900–1919) follow a similar pattern, while pre-1900 buildings show fewer vacates likely due to survivorship bias—many of the most hazardous structures have already been demolished or fully rehabilitated. The rise in vacates among 1960–1979 buildings reflects a different dynamic, where large-scale developments experience system-wide deterioration at the same time, leading to clustered failures. Overall, vacates tend to occur where long-term degradation outpaces reinvestment, whether gradual or systemic.
 
-<img width="676" height="661" alt="image" src="https://github.com/user-attachments/assets/4614ba94-9d80-48d2-bb38-80ccdc6147da" />
+<img width="457" height="321" alt="image" src="https://github.com/user-attachments/assets/b426626f-7a9e-49fd-97f3-dfcde27ed314" />
 
