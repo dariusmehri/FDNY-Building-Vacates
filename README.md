@@ -3,7 +3,7 @@ FDNY vacates are emergency orders issued when a building is deemed unsafe to occ
 
 This project leverages Python, generative AI, and Power BI to analyze the key factors associated with FDNY vacate orders. The analysis draws on data from NYC Open Data, including FDNY Vacate Orders and PLUTO spatial data published by the New York City Department of City Planning.
 
-Since 1989, the FDNY has issued 357 vacate orders. 80% are residential, 
+The data was downloaed from NYC Open Data. Since 1989, the FDNY has issued 357 vacate orders, the vast majority involving residential buildings (80%). Mercantile properties account for 8%, followed by storage (4.2%) and business occupancies (2%), with the remaining cases spread across factory/industrial, assembly, educational, and utility buildings.
 
 #### Building Age
 The distribution of FDNY vacates by building age suggests two distinct risk patterns driven by how buildings deteriorate over time. Pre-war buildings from 1920–1939 account for the most vacates because they combine advanced age with decades of incremental wear and often insufficient modernization, making them especially vulnerable to failure. Slightly older buildings (1900–1919) follow a similar pattern, while pre-1900 buildings show fewer vacates likely due to survivorship bias—many of the most hazardous structures have already been demolished or fully rehabilitated. The rise in vacates among 1960–1979 buildings reflects a different dynamic, where large-scale developments experience system-wide deterioration at the same time, leading to clustered failures. Overall, vacates tend to occur where long-term degradation outpaces reinvestment, whether gradual or systemic.
