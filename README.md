@@ -11,6 +11,9 @@ The distribution of FDNY vacates by building age suggests two distinct risk patt
 <img width="1297" height="728" alt="image" src="https://github.com/user-attachments/assets/abcc75c1-6109-4807-abb7-6c0aeecbacdc" />
 
 #### Building Class
+The distribution of FDNY vacate orders by building class shows a clear concentration in multi-family and elevator apartment buildings. Elevator apartments (co-ops) lead with 49 vacates, followed by small multi-family walk-ups (35) and two-family dwellings (25), highlighting the role of residential density and shared systems. Several other elevator categories—including garden-type, pre-war high-density, and rental buildings—also rank high, reinforcing the impact of aging infrastructure. Mixed-use buildings, such as stores with apartments (19) and retail with other uses (12), further indicate added risk from commercial activity. Overall, vacates are most prevalent in multi-unit and mixed-use structures, where density, building age, and complexity increase the likelihood of serious conditions requiring evacuation.
+
+<img width="458" height="242" alt="image" src="https://github.com/user-attachments/assets/4055e2b5-0c70-48f0-b3f1-a0c62ac693ad" />
 
 
 
