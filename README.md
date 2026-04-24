@@ -10,6 +10,8 @@ The distribution of FDNY vacates by building age suggests two distinct risk patt
 
 <img width="1297" height="728" alt="image" src="https://github.com/user-attachments/assets/abcc75c1-6109-4807-abb7-6c0aeecbacdc" />
 
+#### Building Class
+
 
 
 
